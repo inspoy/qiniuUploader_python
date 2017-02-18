@@ -2,7 +2,7 @@
 [中文介绍](http://inspoy.cc/wordpress/index.php/46.html)
 
 ## Descirption
-A tool which can upload files to Qiniu conveniently.
+A tool with GUI which can upload files to Qiniu conveniently.
 
 ## Requirement
 ### Python
